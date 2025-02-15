@@ -23,6 +23,6 @@ Sou **Sarah Frossard**, estudante de **Engenharia de Software**. Busco sempre ap
 ### 📬 Contato
 
 <div>
- <a href = "mailto:sarahgsf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:sgsfrossard@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sarahsgf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
