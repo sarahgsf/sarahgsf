@@ -8,7 +8,7 @@ Gosto de trabalhar em projetos que envolvem tanto o lado técnico quanto criativ
 
 ### 📚 Formação
 - **Curso:** Engenharia de Software
-- **Instituição:** IFSP (Camous São Carlos)
+- **Instituição:** IFSP (Câmpus São Carlos)
 
 ---
 
