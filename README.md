@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Sarah Frossard
-**Oi, Bem vindo ao meu perfil! 🖐🏻**
+**Oi, Bem vindo ao meu perfil!! 🖐🏻**
 
 
 Sou **Sarah Gabriele Scandola Frossard**, estudante de **Engenharia de Software** com grande interesse em **Marketing** e **Design**.
