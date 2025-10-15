@@ -29,7 +29,7 @@ I’m **Sarah Gabriele Scandola Frossard**, a **Software Engineering** student w
 
 ---
 ### 🔥  My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahgsf&show_icons=true&theme=radical&include_all_commits=true&locale=en-us)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahgsf&show_icons=true&theme=radical&include_all_commits=true&locale=en)
 
 ##  
 
