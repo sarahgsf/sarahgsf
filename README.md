@@ -36,8 +36,14 @@ I’m **Sarah Gabriele Scandola Frossard**, a **Software Engineering** student w
 
 ### 📬 Contact
 
-You can reach me via:  
-[LinkedIn](https://www.linkedin.com/in/sarahgsf) | [Email](mailto:sarahgsf@example.com)
+<div>
+  <a href="mailto:sgsfrossard@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/sarahsgf" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
 
 Você também pode visualizar este README em inglês [aqui](README.md)
 
