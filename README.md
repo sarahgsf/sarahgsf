@@ -1,22 +1,22 @@
-👩🏻‍💻 Sarah Frossard
-Hi, welcome to my profile!! 🖐🏻
+#👩🏻‍💻 Sarah Frossard
+**Hi, welcome to my profile!! 🖐🏻**
 
-I’m Sarah Gabriele Scandola Frossard, a Software Engineering student with a strong interest in Marketing and Design. I enjoy working on projects that involve both technical and creative sides. 🚀
+I’m **Sarah Gabriele Scandola Frossard**, a **Software Engineering** student with a strong interest in **Marketing** and **Design**. I enjoy working on projects that involve both technical and creative sides. 🚀
 
-📚 Education
-Course: Software Engineering
-Institution: IFSP (São Carlos Campus)
+###📚 Education
+- **Course:** Software Engineering
+- **Institution:** IFSP (São Carlos Campus)
 
 💻 Technologies & Languages
 
-## 🎓 Education
+### 🎓 Education
 
 **Course:** Software Engineering  
 **Institution:** IFSP (São Carlos Campus)  
 
 ---
 
-## 💻 Technologies & Languages
+### 💻 Technologies & Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
@@ -27,14 +27,14 @@ Institution: IFSP (São Carlos Campus)
 
 ---
 
-## 🌍 Languages
+### 🌍 Languages
 
 - 🇧🇷 Portuguese (Native)  
 - 🇺🇸 English (Intermediate)  
 
 ---
 
-## 📬 Contact
+### 📬 Contact
 
 You can reach me via:  
 [LinkedIn](https://www.linkedin.com/in/sarahgsf) | [Email](mailto:sarahgsf@example.com)
