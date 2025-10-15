@@ -50,3 +50,6 @@ Caso queira conversar sobre projetos e oportunidades, fique à vontade para entr
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+
+
+You can also view this README in Portuguese [here](README.pt-br.md)
