@@ -1,29 +1,24 @@
-#👩🏻‍💻 Sarah Frossard
+# 👩🏻‍💻 Sarah Frossard
 **Hi, welcome to my profile!! 🖐🏻**
 
 I’m **Sarah Gabriele Scandola Frossard**, a **Software Engineering** student with a strong interest in **Marketing** and **Design**. I enjoy working on projects that involve both technical and creative sides. 🚀
+##
 
-###📚 Education
+### 📚 Education
 - **Course:** Software Engineering
 - **Institution:** IFSP (São Carlos Campus)
-
-💻 Technologies & Languages
-
-### 🎓 Education
-
-**Course:** Software Engineering  
-**Institution:** IFSP (São Carlos Campus)  
 
 ---
 
 ### 💻 Technologies & Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Sarah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Sarah-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Sarah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Sarah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sarah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Sarah-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
 
 ---
 
@@ -33,8 +28,16 @@ I’m **Sarah Gabriele Scandola Frossard**, a **Software Engineering** student w
 - 🇺🇸 English (Intermediate)  
 
 ---
+### 🔥  My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahgsf&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br)
+
+##  
+
 
 ### 📬 Contact
 
 You can reach me via:  
 [LinkedIn](https://www.linkedin.com/in/sarahgsf) | [Email](mailto:sarahgsf@example.com)
+
+Você também pode visualizar este README em inglês [aqui](README.md)
+
