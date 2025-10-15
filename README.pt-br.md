@@ -52,4 +52,4 @@ Caso queira conversar sobre projetos e oportunidades, fique à vontade para entr
 </div>
 
 
-You can also view this README in Portuguese [here](README.pt-br.md)
+Você também pode visualizar este README em inglês [aqui](README.md)
