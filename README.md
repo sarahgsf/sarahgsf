@@ -45,5 +45,5 @@ I’m **Sarah Gabriele Scandola Frossard**, a **Software Engineering** student w
   </a>
 </div>
 
-Você também pode visualizar este README em inglês [aqui](./README-pt.md.)
+Você também pode visualizar este README em português [aqui](./README.pt-br.md)
 
