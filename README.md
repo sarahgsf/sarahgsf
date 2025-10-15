@@ -1,14 +1,13 @@
-<h1 align="center">Hi there! 👋</h1>
-<p align="center">Welcome to my GitHub profile! You can also view this README in Portuguese <a href="README.pt-br.md">here</a>.</p>
+👩🏻‍💻 Sarah Frossard
+Hi, welcome to my profile!! 🖐🏻
 
----
+I’m Sarah Gabriele Scandola Frossard, a Software Engineering student with a strong interest in Marketing and Design. I enjoy working on projects that involve both technical and creative sides. 🚀
 
-## 👩‍💻 About Me
+📚 Education
+Course: Software Engineering
+Institution: IFSP (São Carlos Campus)
 
-My name is Sarah Frossard, I'm a Software Engineering student at IFSP São Carlos.  
-I have a strong interest in Marketing and Design, and I enjoy working on projects that combine technical and creative skills.  
-
----
+💻 Technologies & Languages
 
 ## 🎓 Education
 
