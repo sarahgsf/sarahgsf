@@ -12,7 +12,7 @@ Gosto de trabalhar em projetos que envolvem tanto o lado técnico quanto criativ
 
 ---
 
-### 💻 Tecnologias & Linguagens
+### 💻 Linguagens de programação
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sarah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,6 +22,15 @@ Gosto de trabalhar em projetos que envolvem tanto o lado técnico quanto criativ
   <img align="center" alt="Sarah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sarah-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Sarah-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+
+## ⚙️ Tecnologias & Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="Sarah-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Sarah-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Sarah-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Sarah-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Sarah-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ---
