@@ -43,8 +43,6 @@ Gosto de trabalhar em projetos que envolvem tanto o lado técnico quanto criativ
 ---
 
 
-### 🔥 Minhas Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahgsf&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br)
 
 ##  
 
