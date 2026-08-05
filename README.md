@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Sarah Frossard
+# 👩 Sarah Frossard
 **Hi, welcome to my profile!! 🖐🏻**
 
 I’m **Sarah Gabriele Scandola Frossard**, a **Software Engineering** student with a strong interest in **Marketing** and **Design**. I enjoy working on projects that involve both technical and creative sides. 🚀
