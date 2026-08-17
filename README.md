@@ -81,7 +81,7 @@ I'm currently developing my skills through **academic projects, personal project
   <a href="mailto:sgsfrossard@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/sarahsgf" target="_blank">
+  <a href="https://www.linkedin.com/in/sarahgsf/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
