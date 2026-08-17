@@ -1,54 +1,58 @@
-👩🏻‍💻 Sarah Frossard
+# 👩🏻‍💻 Sarah Frossard
 
-Software Engineering Student | Developer in Progress | UI/UX Enthusiast
+### Estudante de Engenharia de Software | Desenvolvedora em formação | Apaixonada por UI/UX
 
-Building my skills, one project at a time. 🚀
+<p align="center">
+  <strong>Construindo minhas habilidades, um projeto de cada vez. 🚀</strong>
+</p>
 
-🎓 Engenharia de Software — IFSP São Carlos
-💻 Software Development
-🎨 UI/UX & Design
-🧩 Problem Solving
-
-Sou estudante de Engenharia de Software apaixonada por tecnologia e criatividade. Gosto de explorar como código e design podem trabalhar juntos para criar experiências digitais funcionais, intuitivas e agradáveis.
-
-Atualmente, estou construindo meu conhecimento através de projetos acadêmicos, projetos pessoais e estudos contínuos, buscando minha primeira oportunidade profissional na área de tecnologia.
-
-🌱 Learning → Building → Improving
----
-
-## 🎓 Formação
-
-* **Engenharia de Software** — IFSP (Campus São Carlos)
+<p align="center">
+  🎓 <strong>Engenharia de Software</strong> — IFSP São Carlos
+  <br>
+  💻 <strong>Desenvolvimento de Software</strong>
+  <br>
+  🎨 <strong>UI/UX & Design</strong>
+  <br>
+  🧩 <strong>Resolução de Problemas</strong>
+</p>
 
 ---
 
-## 💻 Tecnologias e Habilidades
+Sou estudante de **Engenharia de Software** apaixonada por tecnologia e criatividade. Gosto de explorar como **código e design podem trabalhar juntos** para criar experiências digitais funcionais, intuitivas e agradáveis.
+
+Atualmente, estou desenvolvendo minhas habilidades por meio de **projetos acadêmicos, projetos pessoais e estudos contínuos**, explorando diferentes áreas do desenvolvimento de software e transformando conhecimento em prática.
+
+🎯 Meu objetivo é crescer profissionalmente na área de tecnologia, **aprender com novos desafios, contribuir para projetos e desenvolver soluções que façam a diferença**.
+
+---
+
+## 💻 Tecnologias & Ferramentas
 
 ### Linguagens de Programação
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sarah-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Sarah-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sarah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sarah-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C">
 </div>
 
 ### Desenvolvimento Web
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sarah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sarah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sarah-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sarah-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js">
 </div>
 
-### Banco de Dados e Ferramentas
+### Banco de Dados & Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sarah-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Sarah-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Sarah-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Sarah-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code">
 </div>
 
 ---
@@ -57,44 +61,37 @@ Atualmente, estou construindo meu conhecimento através de projetos acadêmicos,
 
 * 💻 Desenvolvimento de Software
 * 🌐 Desenvolvimento Web
-* 🎨 UI/UX Design
-* 🧩 Resolução de Problemas
+* 🎨 UI/UX & Design Digital
 * 🗄️ Banco de Dados
+* 🧩 Estruturas de Dados & Algoritmos
 * 🚀 Engenharia de Software
-
----
-
-## 📚 Atualmente Estudando
-
-Estou continuamente aprimorando meus conhecimentos por meio de projetos acadêmicos e pessoais, com foco em:
-
-* Programação Orientada a Objetos
-* Desenvolvimento de Software
-* Banco de Dados
-* Desenvolvimento Web
-* Estruturas de Dados e Algoritmos
-* UI/UX e Design Digital
 
 ---
 
 ## 🌍 Idiomas
 
-* 🇧🇷 **Português** — Nativo
-* 🇺🇸 **Inglês** — Intermediário
+🇧🇷 **Português** — Nativo
+🇺🇸 **Inglês** — Intermediário
 
 ---
 
-## 📬 Contato
+## 📬 Vamos nos conectar?
 
-<div>
+<div align="center">
   <a href="mailto:sgsfrossard@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/sarahsgf" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
 ---
 
-🇺🇸 **English version:** [README.md](./README.md)
+<p align="center">
+  🌱 <strong>Aprendendo</strong> → 🛠️ <strong>Construindo</strong> → 🚀 <strong>Evoluindo</strong>
+</p>
+
+<p align="center">
+  🇺🇸 <a href="./README.en.md">Read this README in English</a>
+</p>
