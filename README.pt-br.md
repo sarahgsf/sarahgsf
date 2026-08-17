@@ -1,54 +1,84 @@
 # 👩🏻‍💻 Sarah Frossard
-**Oi, Bem vindo ao meu perfil!! 🖐🏻**
 
+**Olá, seja bem-vindo(a) ao meu perfil! 👋🏻**
 
-Sou **Sarah Gabriele Scandola Frossard**, estudante de **Engenharia de Software** com grande interesse em **Marketing** e **Design**.
-Gosto de trabalhar em projetos que envolvem tanto o lado técnico quanto criativo. 🚀
-##  
+Sou **Sarah Gabriele Scandola Frossard**, estudante de **Engenharia de Software no IFSP – Campus São Carlos**, interessada em **Desenvolvimento de Software, UI/UX Design e tecnologia**.
 
-### 📚 Formação
-- **Curso:** Engenharia de Software
-- **Instituição:** IFSP (Câmpus São Carlos)
+Atualmente, estou focada em desenvolver minhas habilidades técnicas por meio de projetos acadêmicos e pessoais, explorando diferentes áreas do desenvolvimento de software e aprendendo a criar soluções **funcionais, intuitivas e centradas no usuário**. 🚀
+
+Busco oportunidades para **aprender, contribuir e adquirir experiência profissional na área de tecnologia**, especialmente por meio de um estágio onde eu possa continuar desenvolvendo minhas habilidades técnicas, criatividade e capacidade de resolução de problemas.
 
 ---
 
-### 💻 Linguagens de programação
+## 🎓 Formação
+
+* **Engenharia de Software** — IFSP (Campus São Carlos)
+
+---
+
+## 💻 Tecnologias e Habilidades
+
+### Linguagens de Programação
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Sarah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sarah-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sarah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sarah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sarah-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Sarah-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sarah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sarah-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Sarah-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-## ⚙️ Tecnologias & Ferramentas
+### Desenvolvimento Web
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Sarah-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Sarah-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Sarah-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Sarah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Sarah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sarah-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sarah-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
+
+### Banco de Dados e Ferramentas
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Sarah-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Sarah-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Sarah-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Sarah-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
 ---
 
-### 🌐 Idiomas
+## 🎨 Áreas de Interesse
 
-- **Português:** Nativo
-- **Inglês:** Básico (em desenvolvimento)
+* 💻 Desenvolvimento de Software
+* 🌐 Desenvolvimento Web
+* 🎨 UI/UX Design
+* 🧩 Resolução de Problemas
+* 🗄️ Banco de Dados
+* 🚀 Engenharia de Software
 
 ---
 
+## 📚 Atualmente Estudando
 
+Estou continuamente aprimorando meus conhecimentos por meio de projetos acadêmicos e pessoais, com foco em:
 
-##  
+* Programação Orientada a Objetos
+* Desenvolvimento de Software
+* Banco de Dados
+* Desenvolvimento Web
+* Estruturas de Dados e Algoritmos
+* UI/UX e Design Digital
 
-### 📬 Contato
-Caso queira conversar sobre projetos e oportunidades, fique à vontade para entrar em contato comigo!
+---
 
+## 🌍 Idiomas
+
+* 🇧🇷 **Português** — Nativo
+* 🇺🇸 **Inglês** — Intermediário
+
+---
+
+## 📬 Contato
 
 <div>
   <a href="mailto:sgsfrossard@gmail.com">
@@ -59,5 +89,6 @@ Caso queira conversar sobre projetos e oportunidades, fique à vontade para entr
   </a>
 </div>
 
+---
 
-Você também pode visualizar este README em inglês [aqui](README.md)
+🇺🇸 **English version:** [README.md](./README.md)
