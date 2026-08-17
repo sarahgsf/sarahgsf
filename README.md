@@ -94,4 +94,4 @@ I'm currently developing my skills through **academic projects, personal project
 
 <p align="center">
   🇧🇷 <a href="./README.md">Leia este README em português</a>
-</p>
+</p> 
