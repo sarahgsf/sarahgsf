@@ -1,13 +1,19 @@
-# 👩🏻‍💻 Sarah Frossard
+👩🏻‍💻 Sarah Frossard
 
-**Olá, seja bem-vindo(a) ao meu perfil! 👋🏻**
+Software Engineering Student | Developer in Progress | UI/UX Enthusiast
 
-Sou **Sarah Gabriele Scandola Frossard**, estudante de **Engenharia de Software no IFSP – Campus São Carlos**, interessada em **Desenvolvimento de Software, UI/UX Design e tecnologia**.
+Building my skills, one project at a time. 🚀
 
-Atualmente, estou focada em desenvolver minhas habilidades técnicas por meio de projetos acadêmicos e pessoais, explorando diferentes áreas do desenvolvimento de software e aprendendo a criar soluções **funcionais, intuitivas e centradas no usuário**. 🚀
+🎓 Engenharia de Software — IFSP São Carlos
+💻 Software Development
+🎨 UI/UX & Design
+🧩 Problem Solving
 
-Busco oportunidades para **aprender, contribuir e adquirir experiência profissional na área de tecnologia**, especialmente por meio de um estágio onde eu possa continuar desenvolvendo minhas habilidades técnicas, criatividade e capacidade de resolução de problemas.
+Sou estudante de Engenharia de Software apaixonada por tecnologia e criatividade. Gosto de explorar como código e design podem trabalhar juntos para criar experiências digitais funcionais, intuitivas e agradáveis.
 
+Atualmente, estou construindo meu conhecimento através de projetos acadêmicos, projetos pessoais e estudos contínuos, buscando minha primeira oportunidade profissional na área de tecnologia.
+
+🌱 Learning → Building → Improving
 ---
 
 ## 🎓 Formação
