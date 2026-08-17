@@ -92,6 +92,8 @@ I'm currently developing my skills through **academic projects, personal project
   🌱 <strong>Learning</strong> → 🛠️ <strong>Building</strong> → 🚀 <strong>Growing</strong>
 </p>
 
-<p align="center">
-  🇧🇷 <a href="./README.md">Leia este README em português</a>
-</p> 
+<div align="center">
+
+You can also view this README in Portuguese [here](./README.pt-br.md)
+
+</div>
