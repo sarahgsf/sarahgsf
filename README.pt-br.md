@@ -81,7 +81,7 @@ Atualmente, estou desenvolvendo minhas habilidades por meio de **projetos acadê
   <a href="mailto:sgsfrossard@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/sarahsgf" target="_blank">
+  <a href="https://www.linkedin.com/in/sarahgsf/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
@@ -92,6 +92,8 @@ Atualmente, estou desenvolvendo minhas habilidades por meio de **projetos acadê
   🌱 <strong>Aprendendo</strong> → 🛠️ <strong>Construindo</strong> → 🚀 <strong>Evoluindo</strong>
 </p>
 
-<p align="center">
-  🇺🇸 <a href="./README.en.md">Read this README in English</a>
-</p>
+<div align="center">
+
+🇺🇸 You can also view this README in English [here](./README.md).
+
+</div>
