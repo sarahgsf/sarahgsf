@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Sarah Frossard
+# 👩🏻‍💻 Sarah Gabriele Scandola Frossard
 
 ### Software Engineering Student | Developer in Progress | UI/UX Enthusiast
 
