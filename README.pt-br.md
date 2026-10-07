@@ -67,11 +67,21 @@ Atualmente, estou desenvolvendo minhas habilidades por meio de **projetos acadê
 * 🚀 Engenharia de Software
 
 ---
+## 📚 Atualmente aprendendo
 
+### Graduação
+- Programação Orientada a Objetos (POO)
+- Tópicos em Algoritmos e Estrutura de Dados
+- Tópicos em Tecnologias Emergentes
+
+### Estudos complementares
+- UI/UX e Design de Interfaces
+  
+---
 ## 🌍 Idiomas
 
-🇧🇷 **Português** — Nativo
-🇺🇸 **Inglês** — Intermediário
+- 🇧🇷 **Português** — Nativo
+- 🇺🇸 **Inglês** — Intermediário
 
 ---
 
