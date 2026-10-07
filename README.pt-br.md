@@ -104,6 +104,6 @@ Atualmente, estou desenvolvendo minhas habilidades por meio de **projetos acadê
 
 <div align="center">
 
-🇺🇸 You can also view this README in English [here](./README.md).
+You can also view this README in English [here](./README.md).
 
 </div>
