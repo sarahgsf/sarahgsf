@@ -67,11 +67,21 @@ I'm currently developing my skills through **academic projects, personal project
 * 🚀 Software Engineering
 
 ---
+## 📚 Currently learning
 
+### Undergraduate studies
+- Object-Oriented Programming (OOP)
+- Algorithms and Data Structures
+- Emerging Technologies
+
+### Complementary studies
+- UI/UX and Interface Design
+
+---
 ## 🌍 Languages
 
-🇧🇷 **Portuguese** — Native
-🇺🇸 **English** — Intermediate
+- 🇧🇷 **Portuguese** — Native
+- 🇺🇸 **English** — Intermediate
 
 ---
 
