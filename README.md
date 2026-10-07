@@ -104,6 +104,6 @@ I'm currently developing my skills through **academic projects, personal project
 
 <div align="center">
 
-You can also view this README in Portuguese [here](./README.pt-br.md)
+Este README também está disponível em Portugues [here](./README.pt-br.md)
 
 </div>
